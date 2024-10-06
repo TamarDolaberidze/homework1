@@ -1,1 +1,1 @@
-# homework1
+This repository is for python basics homeworks
